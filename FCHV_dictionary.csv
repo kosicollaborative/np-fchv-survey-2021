@@ -1,0 +1,468 @@
+variable,Label,Options
+v2_01,What is your name?,-1: [Redacted]
+v2_03,"Besides Nepali, what other languages do you speak fluently?","1 : Maithili 
+2 : Bhojpuri 
+3 : Tharu 
+4 : Tamang 
+5 : Newari/Nepal Bhasa 
+6 : Rai 
+7 : Magar 
+8 : No other languages 
+-44 : Others (specify)"
+v2_03_oth,Others [specify],
+v2_04c,Mention Name of District,"69 : ACHHAM
+49 : ARGHAKHANCHI
+37 : BAGLUNG
+70 : BAITADI
+71 : BAJHANG
+72 : BAJURA
+50 : BANKE
+15 : BARA
+51 : BARDIYA
+35 : BHAKTAPUR
+2 : BHOJPUR
+23 : CHITWAN
+73 : DADELDHURA
+59 : DAILEKH
+52 : DANG
+74 : DARCHULA
+24 : DHADING
+3 : DHANKUTA
+22 : DHANUSHA
+25 : DOLAKHA
+60 : DOLPA
+75 : DOTI
+38 : GORKHA
+53 : GULMI
+61 : HUMLA
+1 : ILAM
+62 : JAJARKOT
+4 : JHAPA
+63 : JUMLA
+76 : KAILALI
+64 : KALIKOT
+77 : KANCHANPUR
+47 : KAPILVASTU
+39 : KASKI
+26 : KATHMANDU
+32 : KAVREPALANCHOK
+5 : KHOTANG
+27 : LALITPUR
+40 : LAMJUNG
+16 : MAHOTTARI
+34 : MAKWANPUR
+41 : MANANG
+6 : MORANG
+65 : MUGU
+42 : MUSTANG
+43 : MYAGDI
+36 : NAWALPUR
+28 : NUWAKOT
+7 : OKHALDHUNGA
+54 : PALPA
+8 : PANCHTHAR
+48 : PARASI
+44 : PARBAT
+17 : PARSA
+55 : PYUTHAN
+29 : RAMECHHAP
+30 : RASUWA
+18 : RAUTAHAT
+56 : ROLPA
+58 : RUKUM EASTERN
+68 : RUKUM WESTERN
+57 : RUPANDEHI
+66 : SALYAN
+9 : SANKHUWASABHA
+19 : SAPTARI
+20 : SARLAHI
+31 : SINDHULI
+33 : SINDHUPALCHOK
+21 : SIRAHA
+10 : SOLUKHUMBU
+11 : SUNSARI
+67 : SURKHET
+45 : SYANGJA
+46 : TANAHUN
+12 : TAPLEJUNG
+14 : TERHATHUM
+13 : UDAYAPUR
+8888 : DON'T KNOW"
+location_note,"Please mention your location (ward,municipality)",-1: [Redacted]
+v2_04b,Mention Name of the Rural Municipality,-1: [Redacted]
+v2_04a,Mention ward number,-1: [Redacted]
+v2_06,How long have you worked as an FCHV ?,
+v2_06_years,Years,
+v2_06_months,Months,
+QQ1,What are some of the Covid symptoms?,"1 : Cough
+2 : Fever / Headache
+3 : Loss of smell and taste
+4 : Fatigue
+5 : Loss of appetite
+6 : Chest pain
+7 : Out of breath/ Difficulty breathing
+8 : Vomiting
+9 : dizziness
+-44 : Others (specify)
+8888 : Don’t know
+9999 : Did not respond"
+QQ1_oth,Others (specify),
+QQ2,How do you prevent the spread of the Covid?,"1 : By wearing mask 
+2 : Well ventilating the room 
+3 : Washing hands frequently 
+4 : Not coming in close contact with infected people 
+5 : Maintain 2 meters distance or more 
+6 : Not organizing big festivals/ rituals/ crowd - Not attending 
+7 : Hygiene 
+8 : Drink boiled/herbal water 
+9 : Nutritious diet 
+10 : Quarantine of people coming from outside 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+QQ2_oth,Others (specify),
+QQ3,How should someone infected with Covid be taken care of?,"1 : Drink jeewan jal/ ORS 
+2 : Drink hot water 
+3 : Eat nutritious food 
+4 : Drink boiled/herbal water 
+5 : Monitor temperature 
+6 : Monitor oxygen level 
+7 : Take paracetamol/Niko 
+8 : Take to hospital/isolation center/quarantine 
+9 : home/self isolation or quarantine 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+QQ3_oth,Others (specify),
+QQ4,How many types of testing are there to detect Covid infection?,"1 : PCR testing 
+2 : Antigen/Rapid testing 
+3 : Antibody testing (previous infection. blood test) 
+4 : Know tests exist, don’t know the name 
+8888 : Don’t know"
+QQ4_oth,Others (specify),
+QQ5,Have you received formal training about Covid?,"1 : YES
+0 : NO
+8888 : Don’t know
+9999 : Did not respond"
+QQ5a,When was the last time you received that training on covid?,"1 : Within last three months 
+2 : Between three to six months 
+3 : Between six months to year 
+4 : More than 1 year ago 
+5 : Date"
+QQ5a_date,What date was the training,
+QQ5b,What did you learn during your training?,"1 : Covid symptoms 
+2 : How to take care of a Covid patient 
+3 : How to reduce spread of covid in the community 
+4 : Who should go for testing 
+5 : Who should be vaccinated 
+6 : Side effects of vaccine 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+QQ5b_oth,Others (specify),
+QQ5c,Who provided the training that you have received?,"1 : Health Post
+2 : Central Ministry of Health (National Health Training Center)
+3 : Province Ministry of Health
+4 : District Health Office/ Health post
+5 : Other Government Office (please specify____)
+6 : INGO/NGO (please specify which one if you remember_____)
+-44 : Others (specify)
+8888 : Don’t know
+9999 : Did not respond"
+QQ5c_oth,Others (specify),
+QQ5c_1,Other Government Office (please specify____),
+QQ5c_2,INGO/ NGO (please specify which one if you remember_____),
+v3_04,Do you know who shouldn’t get the Covid vaccine?,"1 : Severe Vaccine allergic reaction ( reaction to vaccines in the past like swelling, difficulty breathing, etc.) 
+2 : under 18yrs 
+3 : fever/signs of COVID 
+4 : Diabetic patients 
+5 : Hypertension patients 
+6 : Pregnant women 
+7 : Lactating mothers 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v3_04_oth,Others (specify),
+QQ6,Where do you generally get your health information?,"1 : Health Post 
+2 : Ministry of Health Website 
+3 : Ministry of Health Viber group 
+4 : WHO/UNICEF/NGO/INGO educational material 
+5 : TV 
+6 : Radio/FM 
+7 : Newspaper 
+8 : Facebook 
+9 : TikTok 
+10 : YouTube 
+11 : WhatsApp 
+12 : Miking 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+QQ6_oth,Others (specify),
+QQ_comments,Comments,
+v4_10a,How often do you talk to organize/attend formal meetings with your community members to inform them about COVID infection?,"1 : Everyday 
+2 : Once or twice a week 
+3 : Once or twice a month 
+4 : Sporadically, not regularly 
+5 : NEVER 
+9999 : Did not respond"
+v4_10a_add,additional comments?,
+v5_05,"In the past two months, how concerned are the people you serve, including women’s group, ama samuha, about Covid?","1 : Extremely concerned/worried 
+2 : Somewhat concerned 
+3 : Not concerned at all 
+4 : They completely ignore it/deny it 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v5_05_oth,Others (specify),
+v5_07,What instructions have you received from the health post to fight against covid?,"1 : Visit the households similar to the maternal visits 
+2 : Monitor to see who is developing covid symptoms 
+3 : Actively check and refer to Health Post 
+4 : Teaching how to make ORS 
+5 : Teaching how to wear mask properly 
+6 : How to maintain hand hygiene 
+7 : None 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v5_07_oth,Others (specify),
+v5_09,What are the barriers for your participation in the fight against COVID in the communities you serve?,"1 : Lack of masks 
+2 : Lack of gloves 
+3 : Not fully vaccinated 
+4 : No proper training 
+5 : No support from community 
+6 : No support from government 
+7 : I am afraid of getting Covid 
+8 : I don’t know how I can help 
+9 : There are no barriers 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v5_09_oth,Others (specify),
+v5_10,What additional training or resource would you need to be more effective against Covid?,"1 : Information about minimizing risk
+2 : Information about treatment
+3 : Free mask, gloves, sanitizers
+4 : Additional monetary incentive
+-44 : Others (specify)
+8888 : Don’t know
+9999 : Did not respond"
+v5_10_oth,Others (specify),
+v5_comments,Comments,
+v4_11a,Do most people in your community want to know if they have COVID?,"1 : Yes
+0 : No"
+v4_11b,Why don’t they want to know even if they have COVID symptoms?,"1 : Stigma/discrimination 
+2 : Isolation/quarantine 
+3 : work needs to be done 
+4 : Cost of testing 
+5 : NEED TO WORK IN FARM/ JOB 
+6 : Distance to testing center 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_11b_oth,Others (specify),
+v4_13c,Which of the following testing services are available for people in your community?,"1 : PCR 
+2 : Rapid Test / RDT / Antigen 
+3 : There are no testing facilities for community to go to 
+4 : Antibody testing (previous infection. blood test) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_13a,"In general, where do members of your community go to get PCR tested for COVID?","1 : Local testing center in your community less than 1 hour away 
+2 : Have to travel at least 1 hour outside of your community 
+3 : Have to travel at least 2 hours outside of your community 
+4 : Have to travel 3 or more hours outside your community 
+5 : Have to travel full day or more 
+8888 : don't know"
+v4_13d_yn,Do you know how long do they have to wait to get PCR tested?,"1 : YES 
+0 : NO 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_13d,How long do they have to wait to get PCR tested?,
+v4_13d_mins,Minutes,
+v4_13d_hours,Hours,
+v4_13d_days,Days,
+v4_13b_yn,Do you know how many days do they generally have to wait for the PCR result?,"1 : YES 
+0 : NO 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_13b,How many days do they generally have to wait for the PCR result?,
+v4_13e,"In general, where do members of your community go to get rapid test / Antigen tested for COVID?","1 : Local testing center in your community less than 1 hour away 
+2 : Have to travel at least 1 hour outside of your community 
+3 : Have to travel at least 2 hours outside of your community 
+4 : Have to travel 3 or more hours outside your community 
+5 : Have to travel full day or more 
+8888 : don't know"
+v4_13f_yn,Do you know how long do they have to wait to get rapid test/Antigen testing?,"1 : YES 
+0 : NO 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_13f,How long do they have to wait to get rapid test/Antigen testing?,
+v4_13f_mins,Minutes,
+v4_13f_hours,Hours,
+v4_13f_days,Days,
+v4_03,"How did either your family members, or community members testing positive for Covid receive care?","1 : Home isolation / quarantine 
+2 : Community isolation/quarantine 
+3 : Local Hospital 
+4 : District hospital 
+5 : Province hospital 
+6 : Not applicable/Do not know anyone who has tested Covid positive 
+7 : Stayed at home (did not isolate) 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_03_oth,Others (specify),
+v4_03a,Are there separate areas for men and women at the community isolation/quarantine centers?,"1 : yes 
+0 : no 
+2 : no community isolation / quarantine centers 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_04,Who bears the cost of care for those who test positive?,"1 : Self 
+2 : Government 
+3 : NGO/INGO 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_04_oth,Others (specify),
+v4_07,How do community members react to +ve Covid diagnosis?,"1 : Stigma (family members discriminated, not allowed to enter) 
+2 : Verbal abuse 
+3 : Become afraid 
+4 : Provide help for COVID care 
+5 : Provide help for Non COVID care 
+6 : no change in reaction 
+7 : no covid cases 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_07_oth,Others (specify),
+v4_comments,Comments,
+v3_01a,Have you been vaccinated?,"1 : YES, Double Dose 
+2 : ONLY ONE DOSE 
+0 : NO"
+v3_01b,If not vaccinated - why?,"1 : vaccine has not been available 
+2 : unable to schedule 
+3 : vaccine is not safe 
+4 : Don’t trust it 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v3_01b_oth,Others (specify),
+v3_02a,How many people in your household including yourself are over 18?,
+v3_02,How many people in your household including yourself have received at least one dose of the COVID vaccine?,
+v3_05,What do the majority of the people in the communities you serve think about getting COVID vaccines?,"1 : They want to get vaccinated 
+2 : They are indifferent about vaccines 
+3 : They have questions / are fearful about side effects/ health concerns 
+4 : They do not want to get vaccinated 
+-44 : others(specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v3_05_oth,Others (specify),
+v3_06,What questions are the majority members in communities you serve asking about vaccines?,"1 : They are asking about its safety 
+2 : They are asking when they can get vaccinated 
+3 : They don’t trust the Indian vaccine 
+4 : they don’t trust the Chinese vaccine 
+5 : They don’t trust vaccines in general 
+8888 : Don’t know 
+-44 : Other (Specify) 
+9999 : Did not respond"
+v3_06_oth,Others (specify),
+v3_07,Where have you received the information about vaccines so far?,"1 : Health Post 
+2 : Ministry of Health Website 
+3 : Ministry of Health Viber group 
+4 : WHO/UNICEF/NGO/INGO educational material 
+5 : TV 
+6 : Radio/FM 
+7 : Newspaper 
+8 : Facebook 
+9 : TikTok 
+10 : YouTube 
+11 : WhatsApp 
+12 : Miking 
+-44 : others [ specify] 
+8888 : Don’t know 
+9999 : Did not respond"
+v3_07_oth,Others (specify),
+v3_comments,Comments,
+v4_01,Can you share how Covid has impacted the communities you work in?,"1 : increased Deaths in the community 
+2 : Economic loss 
+3 : Stigma 
+4 : Cost of healthcare 
+5 : access to healthcare 
+6 : Food insecurity 
+7 : loss of freedom of movement 
+8 : Loss of schooling 
+9 : price inflation 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_01_oth,Others (specify),
+v4_08a,"Generally in your community, do you see any differences in how men are treated when they are COVID positive as compared to women who test positive?","1 : YES 
+0 : NO 
+2 : no covid cases 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_08b,"If yes, what are some of the ways in which the treatment is between men and women?","1 : Women faced more stigma 
+2 : Women faced domestic violence 
+3 : Women did not have a safe place to stay inside their home 
+4 : Women continued to do household chores despite illness 
+5 : Not treated differently 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_08b_oth,Others (specify),
+v4_09,Were there any cases where a Covid+ve pregnant mother or pregnant mother with Covid+ve family member didn't get help from neighbors if she required transport to deliver the baby?,"1 : YES 
+0 : NO 
+2 : No such cases 
+-44 : Other (comments)"
+v4_09_oth,Other (Comments),
+v4_12a,"During the pandemic, have you noticed a rise in mental health issues in your community?","1 : YES 
+0 : NO 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_12b,"If yes, what kind of issues have you seen?","1 : Depression 
+2 : Stress 
+3 : Anxiety 
+4 : Frustration/Anger 
+5 : Alcoholism 
+6 : Suicide 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v4_12b_oth,Others (specify),
+v5_03,Have people working outside of your communities you serve returned back in the last two weeks?,"1 : Yes, from inside Nepal 
+2 : Yes, from India 
+0 : NO 
+-44 : Yes, from another country ( Specify)"
+v5_03_oth,Another country ( Specify),
+v5_06,"If you had to manage this pandemic, what are the top three things you would prioritize for the community you serve?","1 : Free testing 
+2 : Free equipments like masks, soaps, sanitizers and medications 
+3 : Comprehensive COVID-related information and education 
+4 : financial support - cash transfer or unemployment benefit 
+5 : food security 
+6 : Increased access to COVID vaccines 
+-44 : Others (specify) 
+8888 : Don’t know 
+9999 : Did not respond"
+v5_06_oth,Others (specify),
+v5_04,How has the lockdown impacted the communities you work in?,"1 : Loss of job/income
+2 : Food insecurity
+3 : Challenge to farming
+4 : Police brutality
+5 : Restricted access to essential services
+6 : COVID-related deaths
+7 : Restricted access to non-Covid related treatment
+8 : Loss of schooling
+9 : Price inflation
+10 : No Impact
+-44 : Others (specify)
+8888 : Don’t know
+9999 : Did not respond"
+v5_04_oth,Others (specify),
+v5_comments_orig,Comments,
+endinfo_1,"The correct answer to the question “Do you know who shouldn’t get the vaccine?” (v3_04) is:
+1. Severe allergic reaction to vaccine(allergic reaction to vaccines in past)
+2. under 18yrs
+3. fever/signs of COVID
+Everyone else can take it.""",
+endinfo_2,Can we send you pamphlets and YouTube videos to manage patients in home isolation?,-1: [Redacted]
+endinfo_3,What number would you like to receive those materials at?,-1: [Redacted]
+askinfo,Is it possible for you to give us the names and phone numbers for PHC nurses and health post in-charge in your area?,-1: [Redacted]
+info_count,How many names and numbers can you provide?,-1: [Redacted]
